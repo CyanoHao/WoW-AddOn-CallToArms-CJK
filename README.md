@@ -1,5 +1,9 @@
 Add CJK support to PT Sans font (`PTSans.ttf`) for [Call To Arms](https://www.curseforge.com/wow/addons/call-to-arms-list).
 
+![简体中文](image/zhCN.png)
+![繁體中文](image/zhTW.png)
+![한국어](image/koKR.png)
+
 ## Build Instructions
 
 ### Get Character List
