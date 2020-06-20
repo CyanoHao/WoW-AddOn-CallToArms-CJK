@@ -1,6 +1,6 @@
 ## Interface: 80300
 ## Title: CTA Dump
-## Version: 8.3.0
+## Version: 1.25
 
 ## SavedVariables: CTA_Dump
 

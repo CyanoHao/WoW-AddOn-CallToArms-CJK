@@ -10,6 +10,11 @@ function frame:GetStrings()
 		local _, name = GetLFGRandomDungeonInfo(i)
 		CTA_Dump[locale] = CTA_Dump[locale]..name
 	end
+
+	for i = 1, GetNumRFDungeons() do
+		local _, name = GetRFDungeonInfo(i)
+		CTA_Dump[locale] = CTA_Dump[locale]..name
+	end
 end
 
 function frame:OnEvent(event, ...)
